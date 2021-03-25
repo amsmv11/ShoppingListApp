@@ -87,7 +87,7 @@ python-debian==0.1.32
 pytz==2018.3
 pywal==3.3.0
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.2
 query-string==2019.4.13
 reportlab==3.4.0
